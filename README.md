@@ -1,8 +1,10 @@
 # Hey There! 👋
 
-I'm **Kim Chanthon (ThornieDev)** — a passionate developer who loves learning, building, and exploring technology 🚀  
-I'm interested in **web development, open-source projects, and problem-solving**.  
-In my free time, I enjoy experimenting with new tools and contributing to developer communities.  
+I'm **Kim Chanthon (ThornieDev)** — a passionate developer currently in my 4th year at the **Royal University of Phnom Penh**, pursuing a **Bachelor’s degree in Computer Science & Engineering**.  
+
+I have a strong interest in **Software Engineering, DevOps, Programming, and Software Development**. My focus is on building efficient, scalable systems and continuously learning new technologies to improve my craft.  
+
+In addition to my studies, I enjoy exploring modern development practices, experimenting with tools that streamline workflows, and contributing to projects that create real-world impact. 🚀
 
 ---
 
