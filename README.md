@@ -23,6 +23,14 @@ In addition to my studies, I enjoy exploring modern development practices, exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
+### 🚀 Skills & Expertise
+- **Frontend Development** → Building responsive and user-friendly interfaces  
+- **Backend Development** → RESTful APIs, scalable server-side systems  
+- **DevOps & Cloud** → CI/CD automation, cloud deployment (AWS, VPS), containerization  
+- **Software Engineering** → System architecture design, requirements analysis, and process planning  
+- **AI & Emerging Tech** → Applying AI/ML concepts (e.g., fine-tuning, prompt engineering)  
+- **Collaboration** → Agile teamwork, problem-solving, testing, and project delivery  
+
 ---
 
 ### 🚀 Featured Projects
