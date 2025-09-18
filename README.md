@@ -35,8 +35,10 @@ In addition to my studies, I enjoy exploring modern development practices, exper
   <img src="assets/icons/AWS-Dark.svg" width="40" />
 
   <!-- DevOps & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> -->
+  <img src="assets/icons/Docker.svg" width="40" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" /> -->
+   <img src="assets/icons/Nginx.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> -->
   <img src="assets/icons/Github-Dark.svg" width="40" />
