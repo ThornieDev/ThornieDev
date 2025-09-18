@@ -31,6 +31,7 @@ In my free time, I enjoy experimenting with new tools and contributing to develo
 ---
 
 ### 🌍 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 💬 Discord: `YourDiscord#1234`
-- 📧 Email: `your-email@example.com`
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/your-username)
+- 📘 Facebook: [My Facebook](https://www.facebook.com/your-username)
+- 💬 Telegram: [Message me on Telegram](https://t.me/Thornkim_21)
+- 📧 Email: `kimchanthon46@gmail.com`
