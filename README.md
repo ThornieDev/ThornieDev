@@ -23,8 +23,10 @@ In my free time, I enjoy experimenting with new tools and contributing to develo
 
 ---
 
-### 📊 GitHub Stats
-![ThornieDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThornieDev&show_icons=true&theme=radical)
+### 🚀 Featured Projects
+- [🔗 API Smart Home Microservice](https://api-gateway.kdebit.shop) — A microservice-based API gateway for smart home automation.
+- [🔗 Task Manager API](https://github.com/ThornieDev/task-manager) — REST API with Node.js + MongoDB.
+- [🔗 Cool CLI Tool](https://github.com/ThornieDev/cool-cli) — A command-line tool written in Python.
 
 ---
 
